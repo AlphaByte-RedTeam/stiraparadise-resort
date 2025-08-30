@@ -16,7 +16,7 @@ const Testimonial = () => {
         <div className="flex flex-col text-center items-center gap-6">
           <Image src="/profile.jpg" alt="Image 3" width={60} height={60} className="object-cover items-center justify-center" />
           <Quote size={14} className=" items-center justify-center" />
-          <p className="font-light italic text-base md:text-lg xl:text-xl px-8 md:px-32 xl:px-42">Serasa di Santorini, tapi ini di Sulawesi Selatan. Sunset dinner-nya unforgettable!</p>
+          <p className="font-light italic text-base md:text-lg xl:text-xl px-8 md:px-32 xl:px-42">Serasa di Jimbaran Bali, tapi ini di Sulawesi Selatan. Sunset dinner-nya unforgettable!</p>
           <Quote size={14} />
           <p className="text-base md:text-lg xl:text-xl ">Rahmat R., Jakarta</p>
         </div>

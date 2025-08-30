@@ -17,12 +17,12 @@ const Reservasi = () => {
   //send ke WA
   const handleSendWA = () => {
     const pesan = `Halo, saya ingin reservasi
-Nama: ${nama}
-Check-in: ${checkin}
-Check-out: ${checkout}
-Tipe Penginapan: ${selectedRooms}
-Jumlah Tamu: ${value}`;
-    const url = `https://wa.me/6282188661981?text=${encodeURIComponent(pesan)}`;
+                    Nama: ${nama}
+                    Check-in: ${checkin}
+                    Check-out: ${checkout}
+                    Tipe Penginapan: ${selectedRooms}
+                    Jumlah Tamu: ${value}`;
+    const url = `https://wa.me/6282191730757?text=${encodeURIComponent(pesan)}`;
     window.open(url, "_blank");
   };
 

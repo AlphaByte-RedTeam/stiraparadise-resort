@@ -11,7 +11,7 @@ const Footer = () => {
         <p className="text-sm md:text-base xl:text-xl">Kawasan Wisata Pantai Alfath Stira ParADIse</p>
         <p className="text-sm md:text-base xl:text-xl">Kabupaten Pinrang, Sulawesi Selatan</p>
         <div className="flex flex-row gap-4">
-          <Link href="https://wa.me/6282188661981">
+          <Link href="https://wa.me/6282191730757">
             <MessageSquareText className="text-green-500" />
           </Link>
           <Link href="https://www.instagram.com/stiraparadise_resort">
